@@ -6,17 +6,16 @@ draft = true
 
 {{<section title="Features">}}
 
-* **Roles**
+* **Update your webposters**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. 
+    Change the poster and/or video without any coding knowledge via our cms system
+   
+* **Connect API's**
 
+    Connect an API and use information from another website for your digital signage
+   
+* **Save money**
 
-* **Game-Flow**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. 
-
-* **Voting Systems**
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis neque id vulputate malesuada. Quisque dignissim finibus urna sed sagittis. 
+    Use a cheap mini computer to run the software 
 
 {{</section>}}
